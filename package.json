@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "== Inicialmente===================================",
   "main": "index.js",
   "scripts": {
     "start": "nodemon",
@@ -28,5 +28,13 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "mongoose": "^7.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocaridem/backend_rest_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ocaridem/backend_rest_api/issues"
+  },
+  "homepage": "https://github.com/ocaridem/backend_rest_api#readme"
 }
